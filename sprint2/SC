@@ -135,11 +135,10 @@ interview screening questions (a form you fill when applying for a job):
 - What is "NewSQL", and what is it trying to achieve?
 
 ### Part 5 - Turn it in!
-Add all the files you wrote (`demo_data.py`, `northwind.py`), as well as this
-file with your answers to part 4, to your weekly repo
-(`DS-Unit-3-Sprint-2-SQL-and-Databases`). You're also encouraged to include the
-output from your queries as docstring comments, to facilitate grading. Commit,
-push, and await feedback from your PM. Thanks for your hard work!
+Provide all the files you wrote (`demo_data.py`, `northwind.py`), as well as
+this file with your answers to part 4, directly to your TL. You're also
+encouraged to include the output from your queries as docstring comments, to
+facilitate grading and feedback. Thanks for your hard work!
 
 If you got this far, check out the [larger Northwind
 database](https://github.com/jpwhite3/northwind-SQLite3/blob/master/Northwind_large.sqlite.zip) -
